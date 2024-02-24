@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using ThingDb.Web.Models.Entities;
 
 namespace ThingDb.Web.Data
 {
@@ -9,6 +10,9 @@ namespace ThingDb.Web.Data
 
         }
 
-
+        public DbSet<Item> Items { get; set; }
+        public DbSet<Location> Locations { get; set; }
+        public DbSet<Role> Roles { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

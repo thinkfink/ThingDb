@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThingDb.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+098e8438a3c0e1a241174cd5f1cf63e50cd610aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7f82b3073ed5a4eb1d16246afb9a00b82eda79d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThingDb.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThingDb.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
