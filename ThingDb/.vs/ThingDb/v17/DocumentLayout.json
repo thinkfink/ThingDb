@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Projects\\ThingDb\\ThingDb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\ThingDb\\ThingDb\\Migrations\\20240224050740_Initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240224050740_Initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{991B7BF4-DAEF-464D-BD49-09087140E2CB}|ThingDb.Web.csproj|d:\\projects\\thingdb\\thingdb\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991B7BF4-DAEF-464D-BD49-09087140E2CB}|ThingDb.Web.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991B7BF4-DAEF-464D-BD49-09087140E2CB}|ThingDb.Web.csproj|d:\\projects\\thingdb\\thingdb\\views\\roles\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991B7BF4-DAEF-464D-BD49-09087140E2CB}|ThingDb.Web.csproj|solutionrelative:views\\roles\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991B7BF4-DAEF-464D-BD49-09087140E2CB}|ThingDb.Web.csproj|d:\\projects\\thingdb\\thingdb\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991B7BF4-DAEF-464D-BD49-09087140E2CB}|ThingDb.Web.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991B7BF4-DAEF-464D-BD49-09087140E2CB}|ThingDb.Web.csproj|d:\\projects\\thingdb\\thingdb\\controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991B7BF4-DAEF-464D-BD49-09087140E2CB}|ThingDb.Web.csproj|solutionrelative:controllers\\locationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991B7BF4-DAEF-464D-BD49-09087140E2CB}|ThingDb.Web.csproj|d:\\projects\\thingdb\\thingdb\\migrations\\20240224050740_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991B7BF4-DAEF-464D-BD49-09087140E2CB}|ThingDb.Web.csproj|solutionrelative:migrations\\20240224050740_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{991B7BF4-DAEF-464D-BD49-09087140E2CB}|ThingDb.Web.csproj|d:\\projects\\thingdb\\thingdb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,24 +42,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ThingDb\\ThingDb\\Views\\Roles\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Add.cshtml",
+              "ToolTip": "D:\\Projects\\ThingDb\\ThingDb\\Views\\Roles\\Add.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T00:50:22.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\Projects\\ThingDb\\ThingDb\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\Projects\\ThingDb\\ThingDb\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T00:50:02.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\Projects\\ThingDb\\ThingDb\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "D:\\Projects\\ThingDb\\ThingDb\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T00:23:34.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocationsController.cs",
+              "DocumentMoniker": "D:\\Projects\\ThingDb\\ThingDb\\Controllers\\LocationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocationsController.cs",
+              "ToolTip": "D:\\Projects\\ThingDb\\ThingDb\\Controllers\\LocationsController.cs",
+              "RelativeToolTip": "Controllers\\LocationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T00:23:16.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20240224050740_Initial migration.cs",
               "DocumentMoniker": "D:\\Projects\\ThingDb\\ThingDb\\Migrations\\20240224050740_Initial migration.cs",
               "RelativeDocumentMoniker": "Migrations\\20240224050740_Initial migration.cs",
               "ToolTip": "D:\\Projects\\ThingDb\\ThingDb\\Migrations\\20240224050740_Initial migration.cs",
               "RelativeToolTip": "Migrations\\20240224050740_Initial migration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T05:07:40.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projects\\ThingDb\\ThingDb\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -51,12 +119,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-23T01:31:46.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-23T01:31:46.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\ThingDb\\ThingDb\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -64,12 +131,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T01:30:13.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-23T01:30:13.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\ThingDb\\ThingDb\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -77,8 +143,7 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T00:24:22.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T00:24:22.309Z"
             }
           ]
         }

@@ -1,0 +1,25 @@
+﻿@model ThingDb.Web.Models.Entities.User
+
+<h1>Add User</h1>
+
+<div class="mt-3">
+
+    <label class="form-label">Username</label>
+    <input type="text" class="form-control" />
+
+    <label class="form-label">Password</label>
+    <input type="text" class="form-control" />
+
+    <label class="form-label">Email</label>
+    <input type="email" class="form-control" />
+
+    <label class="form-label">Phone</label>
+    <input type="text" class="form-control" />
+
+    <label class="form-label">Date Created:</label>
+    @Html.TextBox("txtDateCreated", DateTime.Now)
+
+    <label class="form-label">Date Updated:</label>
+    @Html.TextBox("txtDateUpdated", DateTime.Now)
+
+</div>
